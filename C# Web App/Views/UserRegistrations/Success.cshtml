@@ -1,0 +1,12 @@
+﻿@model IEnumerable<HomeDecor.Models.UserAccount>
+{
+@ViewData["Title"] = "Success";
+
+}
+@ViewBag.user
+<form asp-action="Login" asp-controller="UserLogins">
+    <h6>Your account has been successfully registered please Sign in </h6>
+    <div class="form-group">
+        <input type="submit" value="Click here to login" class="btn btn-default" />
+    </div>
+</form>

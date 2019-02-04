@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{2FA067EE-0868-4223-84B0-2BD6C8117A4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/UserAccounts/Index.cshtml">
+    <Files>
+      <File FileName="Controllers/UserAccountsController.cs" Line="156" Column="16" />
+      <File FileName="Views/UserAccounts/Delete.cshtml" Line="58" Column="93" />
+      <File FileName="Views/FacilityModels/Delete.cshtml" Line="50" Column="8" />
+      <File FileName="Views/DecorModels/Index2.cshtml" Line="41" Column="38" />
+      <File FileName="Views/UserAccounts/Edit.cshtml" Line="34" Column="48" />
+      <File FileName="Views/UserAccounts/Index.cshtml" Line="74" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HomeDecor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

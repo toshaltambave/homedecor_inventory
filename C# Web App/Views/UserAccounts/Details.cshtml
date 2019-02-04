@@ -1,0 +1,71 @@
+﻿@model HomeDecor.Models.UserAccount
+
+@{
+    ViewData["Title"] = "User Acount Details";
+}
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a asp-area="" asp-controller="Home" asp-action="Home" class="navbar-brand">HomeDecor</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                @if (TempData["username"] != null)
+                {
+                    <li><a asp-area="" asp-controller="UserLogins" asp-action="Logout">Logout</a></li>
+                }
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<h3>User Details</h3>
+
+<div>
+    <h4>UserAccount</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            User Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+        <dt>
+            User Password
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.UserPassword)
+        </dd>
+        <dt>
+            Access Rights
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AccessRights)
+        </dd>
+
+        <dt>
+            Email Address
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            Active/ Inactive Status
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.isActive)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.UserID">Edit</a> |
+    <a asp-action="Index">Back to Users List</a>
+</div>

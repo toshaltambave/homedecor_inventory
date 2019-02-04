@@ -1,0 +1,32 @@
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/bin/Debug/netcoreapp2.0/HomeDecor.deps.json
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/bin/Debug/netcoreapp2.0/HomeDecor.runtimeconfig.json
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/bin/Debug/netcoreapp2.0/HomeDecor.runtimeconfig.dev.json
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/bin/Debug/netcoreapp2.0/HomeDecor.dll
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/bin/Debug/netcoreapp2.0/HomeDecor.pdb
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/obj/Debug/netcoreapp2.0/HomeDecor.csprojResolveAssemblyReference.cache
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/obj/Debug/netcoreapp2.0/HomeDecor.csproj.CoreCompileInputs.cache
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/obj/Debug/netcoreapp2.0/HomeDecor.AssemblyInfoInputs.cache
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/obj/Debug/netcoreapp2.0/HomeDecor.AssemblyInfo.cs
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/obj/Debug/netcoreapp2.0/HomeDecor.dll
+C:/Users/prach/Desktop/Prachi-MS/UTA Ms/Spring'18/Software Engineering/HomeDecor/HomeDecor/obj/Debug/netcoreapp2.0/HomeDecor.pdb
+/Users/shraddhaghogare/Downloads/team2/bin/Debug/netcoreapp2.0/HomeDecor.deps.json
+/Users/shraddhaghogare/Downloads/team2/bin/Debug/netcoreapp2.0/HomeDecor.runtimeconfig.json
+/Users/shraddhaghogare/Downloads/team2/bin/Debug/netcoreapp2.0/HomeDecor.runtimeconfig.dev.json
+/Users/shraddhaghogare/Downloads/team2/bin/Debug/netcoreapp2.0/HomeDecor.dll
+/Users/shraddhaghogare/Downloads/team2/bin/Debug/netcoreapp2.0/HomeDecor.pdb
+/Users/shraddhaghogare/Downloads/team2/obj/Debug/netcoreapp2.0/HomeDecor.csproj.CoreCompileInputs.cache
+/Users/shraddhaghogare/Downloads/team2/obj/Debug/netcoreapp2.0/HomeDecor.AssemblyInfoInputs.cache
+/Users/shraddhaghogare/Downloads/team2/obj/Debug/netcoreapp2.0/HomeDecor.AssemblyInfo.cs
+/Users/shraddhaghogare/Downloads/team2/obj/Debug/netcoreapp2.0/HomeDecor.dll
+/Users/shraddhaghogare/Downloads/team2/obj/Debug/netcoreapp2.0/HomeDecor.pdb
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\bin\Debug\netcoreapp2.0\HomeDecor.deps.json
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\bin\Debug\netcoreapp2.0\HomeDecor.runtimeconfig.json
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\bin\Debug\netcoreapp2.0\HomeDecor.runtimeconfig.dev.json
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\bin\Debug\netcoreapp2.0\HomeDecor.dll
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\bin\Debug\netcoreapp2.0\HomeDecor.pdb
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\obj\Debug\netcoreapp2.0\HomeDecor.csprojResolveAssemblyReference.cache
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\obj\Debug\netcoreapp2.0\HomeDecor.csproj.CoreCompileInputs.cache
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\obj\Debug\netcoreapp2.0\HomeDecor.AssemblyInfoInputs.cache
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\obj\Debug\netcoreapp2.0\HomeDecor.AssemblyInfo.cs
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\obj\Debug\netcoreapp2.0\HomeDecor.dll
+C:\Users\prach\Desktop\Prachi-MS\UTA Ms\Spring'18\Software Engineering\new\team2 3\team2\obj\Debug\netcoreapp2.0\HomeDecor.pdb

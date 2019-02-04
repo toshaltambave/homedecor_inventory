@@ -1,0 +1,71 @@
+﻿@model HomeDecor.Models.FacilityModel
+
+@{
+    ViewData["Title"] = "Delete Facility";
+}
+
+<h3>Delete</h3>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a asp-area="" asp-controller="Home" asp-action="Home" class="navbar-brand">Home Decor</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                @if (TempData["username"] != null)
+                {
+                    <li><a asp-area="" asp-controller="UserLogins" asp-action="Logout">Logout</a></li>
+                }
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Facility_name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Facility_name)
+        </dd>
+
+           
+    </dl>
+        <form asp-action="Del">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Facility_code" />
+            <input type="hidden" asp-for="Facility_name" />
+
+            <input type="hidden" asp-for="Facility_description" />
+            <div class="form-group">
+               <label asp-for="isActive" class="control-label"></label>
+               <select class="form-control" id="isActive" name="isActive">                  
+                  
+                    <option>False</option> 
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller= "DecorModels" asp-action="Index">Back to Resource List</a>
+    <a asp-controller= "FacilityModels" asp-action="Index">| Back to Facilities List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
