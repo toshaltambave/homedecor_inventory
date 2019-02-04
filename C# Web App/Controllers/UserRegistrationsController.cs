@@ -93,7 +93,7 @@ namespace HomeDecor.Controllers
                 {
                     var SenderEmail = new MailAddress("cse5320.team2@gmail.com", "Admin");
                     var RecieverEmail = new MailAddress(user.Email, "reciever");
-                    const string SenderPassword = "chutiya1234";
+                    const string SenderPassword = "pass";
                     const string subject = "Test";
                     string ConfirmToken = "1234";
                     string body = string.Format("Dear {0}<BR/>Thank you for your registration, " +
